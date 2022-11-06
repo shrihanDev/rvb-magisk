@@ -1,9 +1,9 @@
-2022-11-05
+2022-11-06
   
 CLI: revanced-cli-2.16.0-all.jar  
-Integrations: app-release-unsigned-v0.66.0.apk  
-Patches: revanced-patches-2.102.1.jar  
-[Patches Changelog](https://github.com/revanced/revanced-patches/releases/tag/v2.102.1)  
+Integrations: app-release-unsigned-v0.67.0.apk  
+Patches: revanced-patches-2.104.0.jar  
+[Patches Changelog](https://github.com/revanced/revanced-patches/releases/tag/v2.104.0)  
 
 YouTube version: 17.43.36  
 
